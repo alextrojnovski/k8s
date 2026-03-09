@@ -1,0 +1,1 @@
+GitHub Push -> GitHubActions CI/CD -> Build & Test -> Push to Docker Hub -> Deploy to Minukube -> Verify Deployment
